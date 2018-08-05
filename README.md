@@ -1,24 +1,5 @@
-# README
+# The Magic Conch
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Decision maker application with randomizer function and roullete for compacting options
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Build Status](https://travis-ci.org/code-verse/magic-conch.svg?branch=master)](https://travis-ci.org/code-verse/magic-conch)
